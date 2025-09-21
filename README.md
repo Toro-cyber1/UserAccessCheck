@@ -1,4 +1,4 @@
-Dette er et program der tjekker brugerens adgang baseret på brugernavn, adgangskode og bruger-ID.
+Dette er et program der tjekker brugerens adgang baseret på brugernavn, adgangskode og brugerID.
 
 **Hvordan bruges det?**
 - En bruger er admin hvis brugerID er større end 65536.  
